@@ -9,3 +9,13 @@ Prueba para
 sumama sabe coser?
 
 coser=cocer+ puntada
+
+ if (coser=="si")
+  {
+     System.out.println("Digale que le cosa esto "+ cortada);
+  }
+    else
+  {
+      System.out.println("Yo le enseño "+ cortada);
+  }
+  
